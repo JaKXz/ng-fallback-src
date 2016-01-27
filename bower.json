@@ -2,6 +2,7 @@
   "name": "ng-fallback-src",
   "description": "Fallback image src if you need it",
   "main": "ng-fallback-src.js",
+  "version": "1.0.0",
   "authors": [
     "Jason Kurian"
   ],

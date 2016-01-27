@@ -23,5 +23,8 @@
   "homepage": "https://github.com/JaKXz/ng-fallback-src#readme",
   "dependencies": {
     "angular": "^1.4.9"
+  },
+  "scripts": {
+    "release": "git commit -am $npm_package_version && git tag $npm_package_version && git push && npm publish && git push --tags"
   }
 }
