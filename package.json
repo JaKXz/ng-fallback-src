@@ -1,6 +1,6 @@
 {
   "name": "ng-fallback-src",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fallback image src if you need it",
   "main": "ng-fallback-src.js",
   "scripts": {

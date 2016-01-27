@@ -2,7 +2,7 @@
   "name": "ng-fallback-src",
   "description": "Fallback image src if you need it",
   "main": "ng-fallback-src.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "Jason Kurian"
   ],
@@ -19,7 +19,8 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "package.json"
   ],
   "dependencies": {
     "angular": "^1.4.9"
