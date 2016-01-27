@@ -15,14 +15,14 @@ bower install --save ng-fallback-src
 This was originally meant for `img` tags only, but theoretically it could work for any element with a `src` tag. This theory is untested so _use at your own risk_.
 
 ```html
-<img ng-src="{{someFlakyVar}} fallback-src={{someReliableUrl}} />"
+<img ng-src="{{someFlakyVar}}" fallback-src="{{someReliableUrl}}" />
 ```
 
 Note: if `someFlakyVar` can be falsy, you'll need to account for it separately, e.g.
 
 ```html
-<img ng-src="{{someFlakyVar || someReliableUrl}} 
-  fallback-src={{someReliableUrl}} />"
+<img ng-src="{{someFlakyVar || someReliableUrl}}" 
+  fallback-src="{{someReliableUrl}}" />
 ```
 
 since most browsers won't actually fire the error event if the `src` is empty.
