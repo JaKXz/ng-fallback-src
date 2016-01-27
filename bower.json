@@ -1,0 +1,26 @@
+{
+  "name": "ng-fallback-src",
+  "description": "Fallback image src if you need it",
+  "main": "ng-fallback-src.js",
+  "authors": [
+    "Jason Kurian"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "image",
+    "ngsrc"
+  ],
+  "homepage": "https://github.com/JaKXz/ng-fallback-src",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.9"
+  }
+}
