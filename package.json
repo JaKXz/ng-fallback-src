@@ -1,0 +1,27 @@
+{
+  "name": "ng-fallback-src",
+  "version": "1.0.0",
+  "description": "Fallback image src if you need it",
+  "main": "ng-fallback-src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaKXz/ng-fallback-src.git"
+  },
+  "keywords": [
+    "angularjs",
+    "image",
+    "ngsrc"
+  ],
+  "author": "Jason Kurian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaKXz/ng-fallback-src/issues"
+  },
+  "homepage": "https://github.com/JaKXz/ng-fallback-src#readme",
+  "dependencies": {
+    "angular": "^1.4.9"
+  }
+}
