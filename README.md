@@ -46,5 +46,6 @@ The most obvious things right now are
 
 ## Credits
 
-- @concertcoder [Chris Gosselin]: version `0.x` and helping correct a potential memory leak
-- @nexus-uw [Simon Ramsay]: pointing out that @concertcoder wrote this once upon a time
+- [This S/O post](http://stackoverflow.com/a/16349631/1444541)
+- [@concertcoder](https://github.com/concertcoder) [Chris Gosselin]: version `0.x` and helping correct a potential memory leak
+- [@nexus-uw](https://github.com/nexus-uw) [Simon Ramsay]: pointing out that @concertcoder wrote this once upon a time
