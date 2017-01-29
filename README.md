@@ -1,5 +1,7 @@
 # ng-fallback-src [![npm version](https://badge.fury.io/js/ng-fallback-src.svg)](https://badge.fury.io/js/ng-fallback-src)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JaKXz/ng-fallback-src.svg)](https://greenkeeper.io/)
+
 > replace 404s with some default asset, for better [empty] states.
 
 ## Install
